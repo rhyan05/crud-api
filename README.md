@@ -30,9 +30,7 @@ Adiciona uma nova pessoa ao banco de dados.
      {
      "status": "success",
      "message": "Pessoa criada com sucesso.",
-     "id": 1,
-     "name": João,
-     "age": 30
+     "id": 1
    }
 - `http://localhost/Projetos/API/apis-php/api-crud_simples/index.php?fn=create&name=Rhyan&age=19`
 - Saida:
